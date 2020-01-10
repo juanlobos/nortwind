@@ -73,6 +73,9 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Conexion\ClsConexion.vb" />
+    <Compile Include="Entidades\Customer.vb" />
+    <Compile Include="Entidades\Hours.vb" />
     <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>
